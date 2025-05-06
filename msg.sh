@@ -1,0 +1,3 @@
+read msg
+echo msg
+
